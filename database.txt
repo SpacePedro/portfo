@@ -1,0 +1,8 @@
+email,subject,message
+pedro@gmail.com,Ola,primeiro
+ana@gmail.com,dia,daaaa
+asdas@sddsd.com,sdsd,sdfasfa 
+sdsd@dfaf,asdsad,asdsd
+sdsd@dfaf,asdsad,asdsd
+f@f.com,sss,ssss
+,,
